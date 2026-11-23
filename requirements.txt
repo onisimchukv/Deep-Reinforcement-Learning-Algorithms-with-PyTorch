@@ -47,7 +47,7 @@ EasyProcess==0.2.3
 entrypoints==0.2.3
 et-xmlfile==1.0.1
 fastcache==1.0.2
-filelock==3.0.8
+filelock==4.2.1
 Flask==1.0.2
 Flask-Cors==3.0.6
 future==0.17.1
